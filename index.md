@@ -2,6 +2,10 @@
 
 This page is based on the book [Discovering Statistics Using R](https://us.sagepub.com/en-us/nam/discovering-statistics-using-r/book236067) by [Andy Field](https://us.sagepub.com/en-us/nam/author/andy-field-0) 
 
+1. Why is my evil lecturer forcing me to learn statistics?
+2. Everything you ever wanted to know about statistics
+3. The R environment
+
 <!--- ![Family](Screenshot%20from%202018-03-05%2014-02-58.png?raw=true "Family") 
 
 ### Markdown
