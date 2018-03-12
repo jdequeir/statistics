@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/jdequeir/statistics/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-[comment]: <> (![Family](Screenshot%20from%202018-03-05%2014-02-58.png?raw=true "Family"))
+<!--- ![Family](Screenshot%20from%202018-03-05%2014-02-58.png?raw=true "Family") -->
 
 ### Markdown
 
