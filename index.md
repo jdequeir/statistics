@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/jdequeir/statistics/edit/m
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-![Family](https://github.com/jdequeir/statistics/blob/master/Screenshot%20from%202018-03-05%2014-02-58.png)
+![Family](Screenshot%20from%202018-03-05%2014-02-58.png?raw=true "Family")
 
 ### Markdown
 
