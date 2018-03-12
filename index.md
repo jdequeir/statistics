@@ -1,6 +1,6 @@
 ## Welcome to José de Queiroz's Statistics Page
 
-This page is based on the book [Discovering Statistica Using R](https://us.sagepub.com/en-us/nam/discovering-statistics-using-r/book236067)
+This page is based on the book [Discovering Statistics Using R](https://us.sagepub.com/en-us/nam/discovering-statistics-using-r/book236067) by [Andy Field](https://us.sagepub.com/en-us/nam/author/andy-field-0) 
 
 <!--- ![Family](Screenshot%20from%202018-03-05%2014-02-58.png?raw=true "Family") 
 
