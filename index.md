@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to José de Queiroz's Statistics Page
 
-You can use the [editor on GitHub](https://github.com/jdequeir/statistics/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-<!--- ![Family](Screenshot%20from%202018-03-05%2014-02-58.png?raw=true "Family") -->
+<!--- ![Family](Screenshot%20from%202018-03-05%2014-02-58.png?raw=true "Family") 
 
 ### Markdown
 
@@ -35,3 +33,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+-->
