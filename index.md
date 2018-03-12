@@ -1,5 +1,7 @@
 ## Welcome to José de Queiroz's Statistics Page
 
+This page is based on the book [Discovering Statistica Using R](https://us.sagepub.com/en-us/nam/discovering-statistics-using-r/book236067)
+
 <!--- ![Family](Screenshot%20from%202018-03-05%2014-02-58.png?raw=true "Family") 
 
 ### Markdown
